@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # setup-gh-pages
-# John Simpson <jms1@jms1.net> 2022-06-02
+# Semio Dsouza <semiod@gmail.com> 2026-05-02
 #
 # Add a 'gh-pages' branch to the repo
 #
