@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # version-commit (as a shell script)
-# John Simpson <jms1@jms1.net> 2025-07-28
+# Semio Dsouza <semiod@gmail.com> 2026-05-28
 # Last updated 2025-12-12
 #
 # Filter for mdbook, inserts git commit info into page templates
@@ -10,7 +10,7 @@
 #
 # The MIT License (MIT)
 #
-# Copyright (C) 2025 John Simpson
+# Copyright (C) 2026 Semio Dsouza
 #
 # Permission is hereby granted, free of charge, to any person obtaining a
 # copy of this software and associated documentation files (the “Software”),
